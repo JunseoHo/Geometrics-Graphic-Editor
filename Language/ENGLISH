@@ -1,0 +1,91 @@
+0:null
+1:Current Version
+2:Project Name
+3:Released Date
+4:Author
+5:Exception Occurred
+6:Exception
+7:Rectangle
+8:Ellipse
+9:Line
+10:Polyline
+11:Polygon
+12:Pen
+13:Image
+14:New
+15:Save
+16:Save As
+17:Load
+18:Print
+19:Version
+20:Exit
+21:Inverse Color
+22:Clear
+23:Paint Mode
+24:Draw
+25:Fill
+26:Paint Color
+27:Weight
+28:Opacity
+29:Anti-Aliasing
+30:On
+31:Off
+32:Look&Feel
+33:Nimbus
+34:Metal
+35:Windows
+36:Language
+37:English
+38:ÇÑ±¹¾î
+39:File
+40:Edit
+41:Paint
+42:Setting
+43:System
+44:Foremost
+45:Backmost
+46:Version Information
+47:Color Selection
+48:Enter the Weight
+49:Setting weight failed
+50:Invalid Input
+51:Enter the Opacity (Range | 0 ~ 100)
+52:Setting Opacity failed
+53:Invalid Input
+54:If you change the system value, it will not be applied until you restart the program. Are you sure you want to exit the program now?
+55:Change System Value
+56:Save changes?
+57:Changes exist
+58:Copy
+59:Paste
+60:Delete
+61:GrayScale
+62:Undo
+63:Redo
+64:You can't undo anymore
+65:You can't redo anymore
+66:Set Paint Color
+67:Copied Shape is not exist.
+68:Paste Failed
+69:Stroke Mode
+70:Straight
+71:Dotted
+72:Rhombus
+73:Arrow
+74:Attributes
+75:Width
+76:Height
+77:Color
+78:Opacity
+79:Screenshot
+80:The backup file was recovered due to a previous abnormal termination.
+81:Recovered
+82:px
+83:Input Text
+84:Text
+85:Font Name
+86:Font Style
+87:Set Font
+88:Font Size
+89:Size is not acceptable
+90:Locate Correction
